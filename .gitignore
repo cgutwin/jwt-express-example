@@ -1,0 +1,6 @@
+# dev babel builds
+dist
+# .env obviously
+.env
+ # local dev config stuff (ex. local certificates)
+config
